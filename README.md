@@ -1,5 +1,5 @@
 ### Hi there 👋
-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/pranavdave.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/pranavdave)
+
 
 <!--
 **Pranav2918/Pranav2918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
