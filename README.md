@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![github](https://img.shields.io/github/followers/pranav2918?label=Follow%20Me&style=social)](https://github.com/pranav2918)
+
 ## 💻 Technologies:
 
 ### Programing languages
@@ -15,12 +17,14 @@
 
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 
+### Connect With Me 
 
-## 💬 Connect with me:
-<p align="left">
-<a href="pranavdaveofficial@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Twitter" height="20" width="30" /> pranavdaveofficial@gmail.com</a><br><br>
-<a href="https://www.linkedin.com/in/pranav-dave-3a56931ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IN" height="20" width="30" /> Pranav Dave</a><br><br>
-</p>
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+
+
+
+
 
 <!--
 **Pranav2918/Pranav2918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
