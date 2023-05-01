@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate flutter application developer💙</h3>
 
-## 💻 Technologies:
-
 ### Programing languages
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
